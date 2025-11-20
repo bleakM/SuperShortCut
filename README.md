@@ -1,5 +1,5 @@
-#The latest word!
-##Version 3.1 is released, with enhanced detail design, increased flexibility, and the addition of local backup and global lock functions (which can disable input when the computer is not locked).
+# The latest word!
+## Version 3.1 is released, with enhanced detail design, increased flexibility, and the addition of local backup and global lock functions (which can disable input when the computer is not locked).
 # 最新消息！
 ## 3.1 版本已发布，具有更精细的细节设计、更高的灵活性，并新增了本地备份和全局锁定功能（当电脑未锁定时，该功能可禁用输入）。
 
