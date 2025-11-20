@@ -1,4 +1,4 @@
-# The latest word!
+# The latest word -- the SUPER-SHORTCUT!
 ## Version 3.1 is released, with enhanced detail design, increased flexibility, and the addition of local backup and global lock functions (which can disable input when the computer is not locked).
 ## Now, English, Japanese and French are all fully supported!
 # 最新消息！
