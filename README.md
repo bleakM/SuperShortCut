@@ -1,7 +1,9 @@
 # The latest word!
 ## Version 3.1 is released, with enhanced detail design, increased flexibility, and the addition of local backup and global lock functions (which can disable input when the computer is not locked).
+## Now, English, Japanese and French are all fully supported!
 # 最新消息！
 ## 3.1 版本已发布，具有更精细的细节设计、更高的灵活性，并新增了本地备份和全局锁定功能（当电脑未锁定时，该功能可禁用输入）。
+## 全新支持中、英、日、法！
 
 
 # 中文版本Chinese
@@ -91,10 +93,6 @@
 
 A lightweight file shortcut manager that helps you quickly access frequently used folders. It supports alias setting, dark mode, and other features to improve file management efficiency.
 With shortCut, the originally messy files on the desktop will become neat, and all important files will be within easy reach!
-
-
-> **Note**: Currently, the application only supports the Chinese interface.
-
 
 ## Features
 
